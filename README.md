@@ -1,10 +1,10 @@
 
 # merge-together
 
-git add .
+git remove
 git commit -m "yeah"
 git pull
 git push
-git status
-ea
+git statues
+ea g
 
