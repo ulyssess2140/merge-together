@@ -1,6 +1,6 @@
 git add .
 git commit -m "yeah"
-git pull
 git push
+git pull
 git status
 ea ga
